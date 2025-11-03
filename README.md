@@ -38,6 +38,7 @@ Atlasia is a web application built with **Laravel** (backend) and **React + Iner
 - Image upload and management
 - User profile management
 - Full responsive UI with light/dark modes
+- report system
 
 ---
 
